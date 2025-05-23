@@ -34,4 +34,3 @@ Este projeto consiste em um sistema interativo para análise de dados de transpl
 - **Groq API:** Plataforma que oferece modelos de linguagem de última geração para processamento de texto e geração de código.
 
 ---
-
