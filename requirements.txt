@@ -1,4 +1,5 @@
+langchain
+langchain-groq
+langchain-community
 python-dotenv
-groq
-pillow
 pandas
